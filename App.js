@@ -1,0 +1,1 @@
+module.exports = (title,content,color) => `https://img.shields.io/badge/${title||'Badge'}-${content||'Url'}-${color||'green'}.svg`
