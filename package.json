@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/BADGE-URL/issues"
   },
-  "homepage": "https://github.com/alestor123/BADGE-URL#readme"
+  "homepage": "https://github.com/alestor123/BADGE-URL#readme",
+  "dependencies": {
+    "clipboardy": "^2.3.0"
+  }
 }
